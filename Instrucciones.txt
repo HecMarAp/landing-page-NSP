@@ -1,0 +1,26 @@
+
+Cree una página de destino del producto
+
+Objetivo: crear una aplicación que sea funcionalmente similar a https://product-landing-page.freecodecamp.rocks
+
+Historias de usuarios:
+
+1 La página de destino de su producto debe tener un elemento de encabezado con un id="encabezado" correspondiente
+2 Puede ver una imagen dentro del elemento de encabezado con un id = "header-img" correspondiente (un logotipo sería una buena imagen aquí)
+3 Dentro del elemento #header, puede ver un elemento de navegación con un id="nav-bar" correspondiente
+4 Puede ver al menos tres elementos en los que se puede hacer clic dentro del elemento de navegación, cada uno con la clase nav-link
+5 Cuando hace clic en un botón de enlace .nav en el elemento de navegación, se le lleva a la sección correspondiente de la página de destino.
+6 Puede ver un video de producto incrustado con id="video"
+7 Su página de destino tiene un elemento de formulario con un id = "formulario" correspondiente
+8 Dentro del formulario, hay un campo de entrada con id="email" donde puede ingresar una dirección de correo electrónico
+9 El campo de entrada #email debe tener texto de marcador de posición para que los usuarios sepan para qué es el campo.
+10 El campo de entrada #email usa la validación HTML5 para confirmar que el texto ingresado es una dirección de correo electrónico
+11 Dentro del formulario, hay una entrada de envío con un id="enviar" correspondiente
+12 Cuando hace clic en el elemento #enviar, el correo electrónico se envía a una página estática (use esta URL simulada: https://www.freecodecamp.com/email-submit)
+13 La barra de navegación siempre debe estar en la parte superior de la ventana gráfica
+14 La página de destino de su producto debe tener al menos una consulta de medios
+15 La página de inicio de su producto debe utilizar CSS flexbox al menos una vez
+
+Complete las historias de usuario y pase todas las pruebas a continuación para completar este proyecto. Dale tu propio estilo personal. ¡Feliz codificación!
+
+Nota: asegúrese de agregar <link rel="stylesheet" href="styles.css"> en su HTML para vincular su hoja de estilo y aplicar su CSS
